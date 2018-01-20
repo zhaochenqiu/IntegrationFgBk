@@ -1,0 +1,53 @@
+Ground truth definition file; do not change!
+
+Total number of regions:
+2
+Scale of region 0:
+16777215
+Scale of region 1:
+65535
+
+Confusion penality matrix:
+0 1
+1 0
+
+Total number of frames in this shot:
+100
+Total number of labeled frames for this shot:
+6
+Frame number:
+0
+File name:
+camel01_0001_gt.ppm
+Input file name:
+camel01_0001.ppm
+Frame number:
+19
+File name:
+camel01_0020_gt.ppm
+Input file name:
+camel01_0020.ppm
+Frame number:
+39
+File name:
+camel01_0040_gt.ppm
+Input file name:
+camel01_0040.ppm
+Frame number:
+59
+File name:
+camel01_0060_gt.ppm
+Input file name:
+camel01_0060.ppm
+Frame number:
+79
+File name:
+camel01_0080_gt.ppm
+Input file name:
+camel01_0080.ppm
+Frame number:
+99
+File name:
+camel01_0100_gt.ppm
+Input file name:
+camel01_0100.ppm

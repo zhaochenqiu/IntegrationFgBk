@@ -1,0 +1,16 @@
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\baseline\highway\bin001419.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\baseline\office\bin001088.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\baseline\pedestrians\bin001021.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\baseline\PETS2006\bin000700.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\dynamicBackground\boats\bin007142.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\dynamicBackground\canoe\bin000930.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\dynamicBackground\fall\bin003982.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\dynamicBackground\fountain01\bin000720.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\dynamicBackground\fountain02\bin001270.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\dynamicBackground\overpass\bin002339.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\shadow\backdoor\bin001424.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\shadow\bungalows\bin000850.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\shadow\busStation\bin001026.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\shadow\copyMachine\bin002097.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\shadow\cubicle\bin001149.png
+C:\TDDOWNLOAD\RECTGAUSS_Tex_17\results\shadow\peopleInShade\bin000364.png

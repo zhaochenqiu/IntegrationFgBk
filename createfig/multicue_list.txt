@@ -1,0 +1,16 @@
+E:\dataset\dataset2014_deal\dataset\baseline\highway\output_SJN_MultiCueBGS\in001419.png
+E:\dataset\dataset2014_deal\dataset\baseline\office\output_SJN_MultiCueBGS\in001088.png
+E:\dataset\dataset2014_deal\dataset\baseline\pedestrians\output_SJN_MultiCueBGS\in001021.png
+E:\dataset\dataset2014_deal\dataset\baseline\PETS2006\output_SJN_MultiCueBGS\in000700.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\boats\output_SJN_MultiCueBGS\in007142.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\canoe\output_SJN_MultiCueBGS\in000930.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\fall\output_SJN_MultiCueBGS\in003982.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\fountain01\output_SJN_MultiCueBGS\in000720.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\fountain02\output_SJN_MultiCueBGS\in001270.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\overpass\output_SJN_MultiCueBGS\in002339.png
+E:\dataset\dataset2014_deal\dataset\shadow\backdoor\output_SJN_MultiCueBGS\in001424.png
+E:\dataset\dataset2014_deal\dataset\shadow\bungalows\output_SJN_MultiCueBGS\in000850.png
+E:\dataset\dataset2014_deal\dataset\shadow\busStation\output_SJN_MultiCueBGS\in001026.png
+E:\dataset\dataset2014_deal\dataset\shadow\copyMachine\output_SJN_MultiCueBGS\in002097.png
+E:\dataset\dataset2014_deal\dataset\shadow\cubicle\output_SJN_MultiCueBGS\in001149.png
+E:\dataset\dataset2014_deal\dataset\shadow\peopleInShade\output_SJN_MultiCueBGS\in000364.png

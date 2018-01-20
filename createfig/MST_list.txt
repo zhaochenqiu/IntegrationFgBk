@@ -1,0 +1,10 @@
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\dynamicBackground\boats\bin007142.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\dynamicBackground\canoe\bin000950.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\dynamicBackground\fall\bin003982.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\dynamicBackground\fountain01\bin000720.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\dynamicBackground\fountain02\bin001270.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\dynamicBackground\overpass\bin002359.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\badWeather\blizzard\bin003525.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\badWeather\skating\bin001907.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\badWeather\snowFall\bin002760.png
+C:\TDDOWNLOAD\MultiscaleSpatio_TemporalBGModel_132\results\badWeather\wetSnow\bin000609.png

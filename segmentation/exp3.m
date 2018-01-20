@@ -1,0 +1,18 @@
+Img = imread('d:/dataset/FBMS_Trainingset/Trainingset/horses01/horses01_0200.jpg');
+subplot(2,3,1);
+imshow(Img); 
+title('感性趣区图像'); 
+Img=double(Img(:,:,1)); 
+h=fspecial('sobel'); 
+Gx=imfilter(Img,h,'replicate'); 
+Gy=imfilter(Img,h','replicate'); 
+gradImg=sqrt(Gx.^2+Gy.^2); 
+GImg=max(gradImg,40); 
+subplot(2,3,3); 
+imshow(uint8(GImg)); 
+title('梯度图像'); 
+WI1=watershed(GImg); 
+wr=WI1==0; 
+subplot(2,3,4); 
+imshow(wr); 
+title('分水岭'); 

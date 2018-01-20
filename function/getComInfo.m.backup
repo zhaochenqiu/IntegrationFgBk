@@ -1,0 +1,49 @@
+function [re_convimg_cur re_grayimg_cur re_H re_X_pre re_X_cur re_features_cur re_matches re_index_full] = getComInfo(img_cur,bkimg)
+
+global g_template num_multi num_factor g_disRscFgCues;
+
+[row_img column_img byte_img] = size(img_cur);
+
+convimg_cur = imfilter(img_cur,g_template,'replicate');
+
+grayimg_pre = bkimg;
+grayimg_cur = grayImage(convimg_cur);
+
+uimg_pre = uint8(grayimg_pre);
+uimg_cur = uint8(grayimg_cur);
+
+singleimg_pre = im2single(uimg_pre);
+singleimg_cur = im2single(uimg_cur);
+
+[f_pre, d_pre] = vl_sift(singleimg_pre);
+[f_cur, d_cur] = vl_sift(singleimg_cur);
+
+
+% matching the sift features
+[matches, scores] = vl_ubcmatch(d_pre,d_cur);
+
+X_pre = f_pre(1:2,matches(1,:));
+X_pre(3,:) = 1;
+features_pre = f_pre(:,matches(1,:));
+
+X_cur = f_cur(1:2,matches(2,:));
+X_cur(3,:) = 1;
+features_cur = f_cur(:,matches(2,:));
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+re_convimg_cur = convimg_cur;                       %
+re_grayimg_cur = grayimg_cur;                       %
+re_X_pre = X_pre;                                   %
+re_X_cur = X_cur;                                   %
+re_features_cur = features_cur;                     %
+re_matches = matches;                               %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+% captured the homography between bkimg and img_cur
+[H_full src tar index_full] = getHomography_ransac(X_cur,X_pre,g_disRscFgCues);
+
+re_H = H_full;
+re_index_full = index_full;

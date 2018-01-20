@@ -1,0 +1,11 @@
+~/dataset/dataset2014/dataset/dynamicBackground/boats/groundtruth/gt007142.png
+~/dataset/dataset2014/dataset/dynamicBackground/canoe/groundtruth/gt000950.png
+~/dataset/dataset2014/dataset/dynamicBackground/fall/groundtruth/gt003982.png
+~/dataset/dataset2014/dataset/dynamicBackground/fountain01/groundtruth/gt000720.png
+~/dataset/dataset2014/dataset/dynamicBackground/fountain02/groundtruth/gt001270.png
+~/dataset/dataset2014/dataset/dynamicBackground/overpass/groundtruth/gt002359.png
+~/dataset/dataset2014/dataset/badWeather/blizzard/groundtruth/gt003525.png
+~/dataset/dataset2014/dataset/badWeather/skating/groundtruth/gt001907.png
+~/dataset/dataset2014/dataset/badWeather/snowFall/groundtruth/gt002760.png
+~/dataset/dataset2014/dataset/badWeather/wetSnow/groundtruth/gt000609.png
+

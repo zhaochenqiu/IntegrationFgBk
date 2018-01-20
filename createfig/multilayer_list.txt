@@ -1,0 +1,16 @@
+E:\dataset\dataset2014_deal\dataset\baseline\highway\output_MultiLayerBGS\in001419.png
+E:\dataset\dataset2014_deal\dataset\baseline\office\output_MultiLayerBGS\in001088.png
+E:\dataset\dataset2014_deal\dataset\baseline\pedestrians\output_MultiLayerBGS\in001021.png
+E:\dataset\dataset2014_deal\dataset\baseline\PETS2006\output_MultiLayerBGS\in000700.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\boats\output_MultiLayerBGS\in007142.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\canoe\output_MultiLayerBGS\in000930.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\fall\output_MultiLayerBGS\in003982.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\fountain01\output_MultiLayerBGS\in000720.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\fountain02\output_MultiLayerBGS\in001270.png
+E:\dataset\dataset2014_deal\dataset\dynamicBackground\overpass\output_MultiLayerBGS\in002339.png
+E:\dataset\dataset2014_deal\dataset\shadow\backdoor\output_MultiLayerBGS\in001424.png
+E:\dataset\dataset2014_deal\dataset\shadow\bungalows\output_MultiLayerBGS\in000850.png
+E:\dataset\dataset2014_deal\dataset\shadow\busStation\output_MultiLayerBGS\in001026.png
+E:\dataset\dataset2014_deal\dataset\shadow\copyMachine\output_MultiLayerBGS\in002097.png
+E:\dataset\dataset2014_deal\dataset\shadow\cubicle\output_MultiLayerBGS\in001149.png
+E:\dataset\dataset2014_deal\dataset\shadow\peopleInShade\output_MultiLayerBGS\in000364.png
