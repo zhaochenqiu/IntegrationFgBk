@@ -36,7 +36,8 @@ format_img  = 'png';
 
 
 
-detection_MultiHomo_test();
+detection_MultiHomo_fast();
+
 
 
 

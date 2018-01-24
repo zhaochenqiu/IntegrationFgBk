@@ -238,7 +238,7 @@ for i = frame_begin:1:frame_end
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     time8 = toc;
 
-%    displayMatrixImage(i,2,3,img_cur, showcues, simimg, bkimg_forbkcues, bkimg_md, fgimg )
+    displayMatrixImage(i,2,3,img_cur, showcues, simimg, bkimg_forbkcues, bkimg_md, fgimg )
 %    displayMatrixImage(i,2,3,img_cur, bkimg_md, simimg, bkimg_forbkcues, re_grayimg_cur, fgimg )
     [time2_1 time2_2 time2_3]
     tempvec = [time1 time2 time3 time4 time5 time6 time7 time8];
